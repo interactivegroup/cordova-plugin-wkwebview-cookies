@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moodlemobile/cordova-plugin-wkwebview-cookies"
+    "url": "https://github.com/interactivegroup/cordova-plugin-wkwebview-cookies"
   },
   "bugs": {
-    "url": "https://github.com/moodlemobile/cordova-plugin-wkwebview-cookies/issues"
+    "url": "https://github.com/interactivegroup/cordova-plugin-wkwebview-cookies/issues"
   },
   "keywords": [
     "cordova",
@@ -29,6 +29,6 @@
       }
     }
   },
-  "author": "Moodle Pty Ltd",
+  "author": "InteractiveGroup Pvt Ltd",
   "license": "Apache-2.0"
 }
